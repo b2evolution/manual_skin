@@ -21,7 +21,7 @@ class manual_Skin extends Skin
 	 * Skin version
 	 * @var string
 	 */
-	var $version = '1.1.1';
+	var $version = '6.7.8';
 	
 	
 	/**
