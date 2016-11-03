@@ -6,7 +6,7 @@ Link to skin: http://skins.b2evolution.net/manual-skin
 
 ### Update Log
 
-#### v1.1.1
+#### v6.7.8
 
 - Width switcher fix
 - Skin version fix
