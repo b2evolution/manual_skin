@@ -10,4 +10,3 @@ Link to skin: http://skins.b2evolution.net/manual-skin
 
 - Width switcher fix
 - Skin version fix
-- New skinshot
