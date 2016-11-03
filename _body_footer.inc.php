@@ -107,7 +107,8 @@ foreach( $width_switchers as $ws_size => $ws_icon )
 		$ws_class .= ' roundbutton_selected';
 	}
 	echo '<a href="#" onclick="switch_width( this, \''.$ws_size.'\', \''.$cookie_skin_width_name.'\', \''.$cookie_path.'\' ); return false;" class="'.$ws_class.'">';
-	echo get_icon( $ws_icon );
+	echo '<span class="ficon width_decrease"></span>';
+	//echo get_icon( $ws_icon );
 	echo '</a>';
 	$ws++;
 }
